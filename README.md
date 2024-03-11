@@ -1,6 +1,6 @@
 ### 
-Hello and welcome. 
-This is a repository with the completed* project for the Data Science applied capstone 
+Hello and welcome. \\
+This is a repository with the completed* project for the Data Science applied capstone \\
 course, imparted by IBM through "Coursera" platform. This is the 10th and last course for 
 the Data Science Professional Certificate career path.
 
