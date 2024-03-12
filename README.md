@@ -4,11 +4,11 @@ This is a repository with the completed* project for the Data Science applied ca
 course, imparted by IBM through "Coursera" platform. This is the 10th and last course for 
 the Data Science Professional Certificate career path.
 
-In this project, we used the SpaceX Rocket Launch data REST API to get some data about the 
-launches performed by the company and the final outcome wether they landed succesfully or not. We 
-used this data to perform some exploratory analyzis and visualizations, in order to train a 
-predictive classification model with machine learning techniques that would predict the outcome 
-of a new launch based in a series of attributes. 
+In this project, we used the SpaceX Rocket Launch data REST API to get some information about the 
+Falcon9 launches performed by SpaceX and the final outcome wether they landed succesfully or not on 
+their first stage. We used this data to perform some exploratory analyzis and visualizations, in 
+order to train a predictive classification model with machine learning techniques that would predict 
+the outcome of a new launch based in a series of attributes. 
 
 As the project is meant to follow a satandarized sequence of steps to allow for evaluation, 
 the different activities proposed are divided into 7 Jupyter Notebooks, a python code for a dashboard, 
@@ -24,4 +24,4 @@ files):
 7.- IBM_10.3.2_spacex_dash_app.py
 8.- IBM_10.4.1_SpaceX_Machine_Learning_Prediction_Part_5
 9.- ds-capstone-template-coursera.pptx
---------------------------------------------------------------#IBM_coursenum.weeknum.filenum_-----------
+--------------------------------------------------------#IBM_course.week.filenumber_filename
