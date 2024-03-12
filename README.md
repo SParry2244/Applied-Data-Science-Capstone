@@ -8,7 +8,7 @@ In this project, we used the SpaceX Rocket Launch data REST API to get some info
 Falcon9 launches performed by SpaceX and the final outcome wether they landed succesfully or not on 
 their first stage. We used this data to perform some exploratory analyzis and visualizations, in 
 order to train a predictive classification model with machine learning techniques that would predict 
-the outcome of a new launch based in a series of attributes. 
+the outcome of the first stage of a new launch based on this information. 
 
 As the project is meant to follow a satandarized sequence of steps to allow for evaluation, 
 the different activities proposed are divided into 7 Jupyter Notebooks, a python code for a dashboard, 
